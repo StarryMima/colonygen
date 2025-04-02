@@ -1,9 +1,9 @@
 {
     "en": {
-        "training_kit": "This cat has not begun training.",
-        "training_app": "This cat has not finished training.",
+        "training_kit": "This ant has not begun training.",
+        "training_app": "This ant has not finished training.",
         "training_mentors": {
-            "zero": "This cat either did not have a mentor, or {PRONOUN/m_c/poss} mentor is unknown.",
+            "zero": "This ant either did not have a mentor, or {PRONOUN/m_c/poss} mentor is unknown.",
             "one": "{PRONOUN/m_c/subject/CAP} {VERB/m_c/were/was} mentored by %{mentors}.",
             "many": "{PRONOUN/m_c/subject/CAP} {VERB/m_c/were/was} mentored by %{mentors}."
         },
@@ -31,12 +31,12 @@
         "death_cause": "%{death} when {PRONOUN/m_c/subject} %{text}.",
         "murdered": "%{name} murdered %{victims}.",
         "leader_lives_left_df": {
-            "zero": "The leader has no lives left and has travelled to the Dark Forest.",
+            "zero": "The leader has no lives left and has travelled to the Shadowed Cavern.",
             "one": "The leader has one life left.",
             "many": "The leader has %{count} lives left."
         },
         "leader_lives_left_sc": {
-            "zero": "The leader has no lives left and has travelled to StarClan.",
+            "zero": "The leader has no lives left and has travelled to SunColony.",
             "one": "The leader has one life left.",
             "many": "The leader has %{count} lives left."
         },
