@@ -1,10 +1,10 @@
 {
     "en": {
-        "heading": "Timeskip to progress your Clan's life.",
+        "heading": "Timeskip to progress your Colony's life.",
         "season": "Current season: %{season}",
         "age": {
-            "one": "Clan age: %{count} moon",
-            "many": "Clan age: %{count} moons"
+            "one": "Colony age: %{count} moon",
+            "many": "Colony age: %{count} moons"
         },
         "timeskip_button": "Timeskip One Moon",
         "all events": "all events",
@@ -12,7 +12,7 @@
         "births & deaths": "births & deaths",
         "relationships": "relationships",
         "health": "health",
-        "other clans": "other clans",
+        "other clans": "other colonies",
         "miscellaneous": "miscellaneous",
         "no_events": "Nothing interesting happened this moon."
     }
