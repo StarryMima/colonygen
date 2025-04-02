@@ -247,27 +247,27 @@
         ["a shed antennae"]
       ],
       "forest": [
-        ["a crooked-jawed squirrel", "a dying rat"],
+        ["a crooked-jawed beetle", "a dying butterfly"],
         ["a split acorn", "a perfect walnut", "a massive slab of tree-bark", "a scorched pine cone"],
         ["a branch that looks whole but comes apart with a gentle touch", "a stick rotted through"]
       ],
       "plains": [
         ["a patch of dying grass", "wilted grass", "a single burnt stalk of grass", "sprouting grass"],
         ["a towering thundercloud", "the vast blue clear sky", "the flat horizon simmering in the far distance"],
-        ["a crooked-jawed squirrel", "a white rabbit", "a white spotted rabbit"]
+        ["a crooked-jawed beetle", "a white dragonfly", "a white spotted dragonfly"]
 
       ],
       "beach": [
-        ["a three-eyed fish"],
+        ["a three-eyed water skimmer"],
         ["a miraculously burning reed"],
         ["a shell shining with the colors of water"]
 
       ],
       "mountainous": [
-        ["a crooked-jawed squirrel"]
+        ["a crooked-jawed beetle"]
       ],
       "wetlands": [
-        ["a three-eyed fish"],
+        ["a three-eyed water skimmer"],
         ["a miraculously burning reed"],
         ["a shell shining with the colors of water"]
 
@@ -279,14 +279,14 @@
     "sound": {
       "general": [
         ["a whispering on the wind"],
-        ["the sound of a cat no longer here"]
+        ["the sound of an ant no longer here"]
       ],
       "forest": [
 
       ],
       "plains": [
         ["the rustle of wind through the grass", "the howl of wind over an empty plain"],
-        ["the cry of hawk", "the screech of an eagle"]
+        ["the cry of a hawk", "the screech of an eagle"]
 
       ],
       "beach": [
@@ -304,8 +304,8 @@
     },
     "smell": {
       "general": [
-        ["the scent of spoiled queen's milk"],
-        ["the scent of a long dead cat"]
+        ["the scent of spoiled broodmother's fungi"],
+        ["the scent of a long dead ant"]
 
       ],
       "forest": [
@@ -331,7 +331,7 @@
     "emotional": {
       "general": [
         ["a pervasive feeling of dread"],
-        ["the feeling of ants crawling through fur", "the drag of a claw through fur"],
+        ["the feeling of mites crawling across skin", "the drag of a claw through skin"],
         ["the imprint of fangs on skin"],
         ["the feeling of a hidden onlooker", "the oppressive feeling of eyes unseen"],
         ["the stillness that comes before disaster"]
@@ -357,9 +357,9 @@
     },
     "touch": {
       "general": [
-        ["the wind whistling past a claw raised in anger"],
+        ["the wind whistling past a stinger raised in anger"],
         ["the ache of fatigue as eyes close for good"],
-        ["an endless cold that seeps into {PRONOUN/cat_tag/poss} bones"]
+        ["an endless cold that seeps into {PRONOUN/cat_tag/poss} joints"]
       ],
       "forest": [
 
@@ -436,18 +436,18 @@
   ],
     "sound": {
       "general": [
-        ["the rumble of many paws over the ground"],
+        ["the rumble of many tarsi over the ground"],
         ["echoes of a past conversation", "echoes of a past argument"],
         ["whispers of a deed long past", "whispers of a secret long lost"],
         ["a betrayal on the wind"],
         ["the crackling of a burning branch"],
-        ["the whisper of voices rapidly fading"],
+        ["the whisper of chittering rapidly fading"],
         ["the sound of wingbeats in the wind"],
         ["the sounds of a heated argument"],
-        ["near silent pawsteps"],
-        ["the soft noises of kits nursing"],
+        ["near silent tarsisteps"],
+        ["the soft noises of larvae"],
         ["a peal of laughter"],
-        ["distant wails of grief"]
+        ["distant pheromones of grief"]
       ],
       "forest": [
 
@@ -470,10 +470,10 @@
     },
     "smell": {
       "general": [
-        ["the smell of kittypet food"],
+        ["the scent of house-pet food"],
         ["a strange acidic scent"],
-        ["the smell of dirt baked by the sun"],
-        ["the smell of rain"]
+        ["the scent of dirt baked by the sun"],
+        ["the scent of rain"]
       ],
       "forest": [
 
@@ -499,12 +499,12 @@
         ["blood spilt in battle", "a battle from long ago", "the terror of a battle field"],
         ["a war won", "a battle lost"],
         ["an old rendezvous", "a friendly meeting", "a truce between enemies"],
-        ["a cat's last breath"],
+        ["an ant's last breath"],
         ["a promise kept", "a half-remembered promise", "a promise already broken", "a promise not yet made"],
         ["a story half-remembered"],
         ["the excitement of an apprentice", "an apprentice's vigor", "the naivety of an apprentice"],
-        ["the strength of a warrior", "the steadfastness of a warrior", "a warrior's loyalty"],
-        ["the ache of an elder's bones", "an elder's wisdom"],
+        ["the strength of a worker", "the steadfastness of a worker", "a worker's loyalty"],
+        ["the ache of an elder's joints", "an elder's wisdom"],
         ["drowning"],
         ["lingering grief", "grief's sharp impact"],
         ["a newborn's innocence","the loss of innocence"],
@@ -543,14 +543,14 @@
         ["deathly still air", "an unseen fire's heat"],
         ["trembling stones"],
         ["falling through the air", "flying through the air"],
-        ["the warmth of a parent", "the embrace of a family","the warmth of family in the darkness before a kit's eyes open"],
-        ["tails entwining", "the slip of wet fur", "teeth snapping against fur", "claws against a scruff"],
+        ["the warmth of a parent", "the embrace of a family","the warmth of family in the darkness before a larva's eyes open"],
+        ["antennae entwining", "the slip of wet tarsi", "mandibles snapping against skin", "stingers against a head"],
         ["a mentor's touch to an apprentice's forehead"],
         ["slipping on muddy earth despite the dry ground", "sinking into muddy earth"],
-        ["paws damp with water", "paws damp with blood", "paws heavy with blood"],
-        ["another cat's violent shove"],
-        ["sharpening one's claws against stone"],
-        ["wind whipping through fur"]
+        ["tarsis damp with water", "tarsis damp with blood", "tarsis heavy with blood"],
+        ["another ant's violent shove"],
+        ["sharpening one's mandibles against stone"],
+        ["wind whipping past skin"]
       ],
       "forest": [
 
@@ -603,38 +603,38 @@
     "only add 'the cat who ___' snippets to biome lists, you can add one snippet to multiple biomes if you feels it fits in more than one"
     ],
     "general": [
-      ["The Thieving Fox"],
-      ["The Tenacious Rabbit", "The Rabbit Prince"],
-      ["The Hare King", "The Witch Hare"],
-      ["The Lion's Promise", "How The Tiger Got Its Stripes","The Leopard's Spots","The Cougar's Claws"],
-      ["The Place of No Stars", "The Stars of Silverpelt"],
-      ["The Great Tail-Chaser"],
+      ["The Thieving Spider"],
+      ["The Tenacious Dragonfly", "The Dragonfly Prince"],
+      ["The Bird King", "The Witch Bird"],
+      ["The Beetle's Promise", "How The Spider Got Its Stripes","The Butterfly's Spots","The Spider's Fangs"],
+      ["The Place of No Light", "The Stars of Silverbloom"],
+      ["The Great Wing-Chaser"],
       ["The Hole In The Sky"],
       ["The Bird Who Lost Its Wings"]
     ],
     "forest": [
-      ["The Cat Who Became a Porcupine", "The Cat Who Carried the Sun", "The Cat Who Grew Into an Oak", "The Willow Cat",
-        "The Badger Who Befriended a Cat","The Cats Made of Light", "The Cats Made of Shadow"],
-      ["The Old Forests of the Ancestors", "The Forest's Origin", "The First Seed", "The Squirrel Who Planted the Forest"],
+      ["The Ant Who Became an Aphid", "The Ant Who Carried the Sun", "The Ant Who Grew Into an Oak", "The Willow Ant",
+        "The Spider Who Befriended an ant","The Ants Made of Light", "The Ants Made of Shadow"],
+      ["The Old Forests of the Ancestors", "The Forest's Origin", "The First Seed", "The Caterpillar Who Planted the Forest"],
       ["The Star Bugs"],
       ["The Sun-drown Place"]
 
     ],
     "plains": [
-      ["The Cat Who Dug a Tunnel Through The World", "The Blind Hunter Who Saved The Clan", "The Cat Without a Song",
-        "The Cat Who Carried The Sun", "The Cat Made From The Earth", "The Cats Made of Light", "The Great Worm-cat",
-        "The Cats Made of Shadow"],
+      ["The Ant Who Dug a Tunnel Through The World", "The Blind Forager Who Saved The Clan", "The Ant Without a Song",
+        "The Ant Who Carried The Sun", "The Ant Made From The Earth", "The Ants Made of Light", "The Great Worm-ant",
+        "The Ant Made of Shadow"],
       ["the Thunderbeasts"],
       ["How The Great Skytowers Came To Be"],
       ["The Metal Trees of the Twolegs"],
-      ["The Weasel's Lie"],
+      ["The Pillbug's Lie"],
       ["The Sun-drown Place"]
 
     ],
     "beach": [
-      ["The Cursed Cat", "The Cat Who Carried The Sun", "The Cat Who Swam Over The Sea", "The Fish Who Became a Cat",
-        "The Cat Who Spoke To Fish", "The Cats Made of Shadow"],
-      ["The Dolphin's Farewell"],
+      ["The Cursed Ant", "The Ant Who Carried The Sun", "The Ant Who Swam Over The Sea", "The Fish Who Became an Ant",
+        "The Ant Who Spoke To Fish", "The Ants Made of Shadow"],
+      ["The Giant's Farewell"],
       ["The Dead's Token"],
       ["The Ocean's Tears", "The Crying Sky"],
       ["The Singing Shell"],
@@ -643,8 +643,8 @@
 
     ],
     "mountainous": [
-      ["The Eagle Who Became a Cat", "The She-cat Who Traded Her Voice", "The Cat Who Flew", "The Cat Who Carried The Sun",
-      "The Cats Made of Light", "The Cat Who Moved The Mountains", "The Cats Made of Shadow"],
+      ["The Eagle Who Became an Ant", "The She-ant Who Traded Her Voice", "The Ant Who Flew", "The Ant Who Carried The Sun",
+      "The Ants Made of Light", "The Ant Who Moved The Mountains", "The Ants Made of Shadow"],
       ["The Mountain's Shadow"],
       ["The Hummingbird's Feather"],
       ["The Betrayal of the Ravens"],
