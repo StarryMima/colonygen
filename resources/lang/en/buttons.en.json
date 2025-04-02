@@ -1,8 +1,8 @@
 {
     "en": {
         "continue": "continue",
-        "switch_clan": "switch clan",
-        "new_clan": "new clan",
+        "switch_clan": "switch colony",
+        "new_clan": "new colony",
         "settings_info": "settings + info",
         "quit": "quit",
         "open_data_directory": "Open Data Directory",
@@ -12,9 +12,9 @@
         "toggle_fullscreen_windowed": "This will put the game into windowed mode.<br><br><b>Important:</b> This also saves all changed settings!",
         "update_available": "Update Available!",
         "back": "⬅┓ Back",
-        "next_cat": "Next Cat ┏▪⮕",
+        "next_cat": "Next Ant ┏▪⮕",
         "next_step": "Next Step ┏▪⮕",
-        "previous_cat": "⬅┐ Previous Cat",
+        "previous_cat": "⬅┐ Previous Ant",
         "previous_step": "⬅┐ Previous Step",
         "done": "Done ┏▪⬛⬛⮕",
         "done_lower": "done",
@@ -23,10 +23,10 @@
         "main_menu": "⬅▪⬝┐  Main Menu",
         "main_menu_lower": "⬅⬝┐  main menu",
         "quit_game": "⬅⬝┓ quit game",
-        "add_cat": "add cat",
-        "remove_cat": "remove cat",
+        "add_cat": "add ant",
+        "remove_cat": "remove ant",
         "cancel": "cancel",
-        "save_clan": "save clan",
+        "save_clan": "save colony",
         "saving": "saving...",
         "clan_saved": "saved!"
     }
