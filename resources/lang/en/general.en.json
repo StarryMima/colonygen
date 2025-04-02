@@ -14,82 +14,82 @@
         },
         "moon_date": "moon %{moon}",
         "leader": {
-            "one": "leader",
-            "many": "leaders"
+            "one": "monarch",
+            "many": "monarchs"
         },
         "deputy": {
-            "one": "deputy",
-            "many": "deputies"
+            "one": "heir",
+            "many": "heirs"
         },
         "warrior": {
-            "one": "warrior",
-            "many": "warriors"
+            "one": "worker",
+            "many": "workers"
         },
         "medicine cat": {
-            "one": "medicine cat",
-            "many": "medicine cats"
+            "one": "cleric",
+            "many": "clerics"
         },
         "mediator": {
-            "one": "mediator",
-            "many": "mediators"
+            "one": "diplomat",
+            "many": "diplomats"
         },
         "apprentice": {
             "one": "apprentice",
             "many": "apprentices"
         },
         "medicine cat apprentice": {
-            "one": "medicine cat apprentice",
-            "many": "medicine cat apprentices"
+            "one": "cleric apprentice",
+            "many": "cleric apprentices"
         },
         "mediator apprentice": {
-            "one": "mediator apprentice",
-            "many": "mediator apprentices"
+            "one": "diplomat apprentice",
+            "many": "diplomat apprentices"
         },
         "queen": {
-            "one": "queen",
-            "many": "queens"
+            "one": "nurse",
+            "many": "nurses"
         },
         "queen/pregnant": {
-            "one": "queen/pregnant cat",
-            "many": "queens/pregnant cats"
+            "one": "nurse/egg-laying ant",
+            "many": "nurses/egg-laying ants"
         },
         "newborn": {
-            "one": "newborn",
-            "many": "newborns"
+            "one": "egg",
+            "many": "eggs"
         },
         "kitten": {
-            "one": "kitten",
-            "many": "kittens"
+            "one": "larva",
+            "many": "larvae"
         },
-        "kitten_profile": "young",
-        "adolescent": "adolescent",
-        "young adult": "young adult",
-        "adult": "adult",
-        "senior adult": "senior adult",
-        "senior": "senior",
+        "kitten_profile": "antling",
+        "adolescent": "antlet",
+        "young adult": "maturing",
+        "adult": "matured",
+        "senior adult": "seniorily matured",
+        "senior": "elder",
         "kit": {
-            "one": "kit",
-            "many": "kits"
+            "one": "egg",
+            "many": "eggs"
         },
         "elder": {
             "one": "elder",
             "many": "elders"
         },
         "loner": {
-            "one": "loner",
-            "many": "loners"
+            "one": "recluse",
+            "many": "recluses"
         },
         "rogue": {
-            "one": "rogue",
-            "many": "rogues"
+            "one": "hunter",
+            "many": "hunters"
         },
         "kittypet": {
-            "one": "kittypet",
-            "many": "kittypets"
+            "one": "house-pet",
+            "many": "house-pets"
         },
         "former Clancat": {
-            "one": "former Clancat",
-            "many": "former Clancats"
+            "one": "former Clanant",
+            "many": "former Clanants"
         },
         "exiled": {
             "one": "exiled",
@@ -100,9 +100,9 @@
             "one": "mate",
             "many": "mates"
         },
-        "she-cat": "she-cat",
-        "tom": "tom",
-        "cat": "cat",
+        "she-cat": "she-ant",
+        "tom": "drone",
+        "cat": "ant",
         "female": "female",
         "male": "male",
         "trans female": "trans female",
@@ -110,8 +110,8 @@
         "nonbinary": "nonbinary",
         "is": "is",
         "are": "are",
-        "can_work": "This cat can work",
-        "cant_work": "This cat isn't able to work",
+        "can_work": "This ant can work",
+        "cant_work": "This ant isn't able to work",
         "cant_work_condition": "Can't work with this condition",
         "exp_label": "exp: %{exp}",
         "newleaf": "newleaf",
@@ -141,9 +141,9 @@
         "sibling": "sibling",
         "sibling_littermate": "sibling (littermate)",
         "cousin": "cousin",
-        "starclan": "StarClan",
-        "dark_forest": "Dark Forest",
-        "unknown_residence": "Unknown Residence",
+        "starclan": "SunClan",
+        "dark_forest": "Shadowed Cavern",
+        "unknown_residence": "Fogged Field",
         "empty": "empty",
         "none": "none",
         "name_search": "name search",
@@ -190,12 +190,12 @@
             "many": "has had this condition for %{count} moons"
         },
         "had_injury_for": "has been hurt for %{moons}",
-        "pregnant_for": "has been pregnant for %{moons}",
+        "pregnant_for": "has been egg-bound for %{moons}",
         "recovering_from_birth_for": "has been recovering for %{moons}",
         "sick": "sick",
         "injured": "injured",
         "grieving": "grieving",
-        "fleas": "flea-ridden",
+        "fleas": "mite-ridden",
         "is_infected": "is infected",
         "is_festering": "is festering"
     }
