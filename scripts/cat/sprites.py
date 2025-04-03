@@ -5,6 +5,7 @@ from copy import copy
 import pygame
 import ujson
 
+from scripts.special_dates import SpecialDate, is_today
 from scripts.game_structure.game_essentials import game
 
 logger = logging.getLogger(__name__)
@@ -161,7 +162,7 @@ class Sprites:
             "fadedarkforest",
             "symbols",
         ]:
-            if "lineart" in x and game.config["fun"]["april_fools"]:
+            if "lineart" in x and (game.config["fun"]["april_fools"] or is_today(SpecialDate.APRIL_FOOLS)):
                 self.spritesheet(f"sprites/aprilfools{x}.png", x)
             else:
                 self.spritesheet(f"sprites/{x}.png", x)
